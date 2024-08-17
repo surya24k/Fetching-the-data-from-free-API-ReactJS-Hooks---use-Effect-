@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +35,14 @@
   to {
     transform: rotate(360deg);
   }
+}
+table,th,td{
+  border: 2px solid black;
+  border-collapse: collapse;
+} */
+
+.container {
+  background-color: yellow;
+  color: black;
+  text-align: center;
 }
